@@ -1,5 +1,5 @@
 # Práctica de desarrollo de plataforma de Bug Bounty para la Universidad de Palermo
-Este sitio contiene el desarrollo de una plataforma de Bug Bounty para prácticas en la Universidad de Palermo.
+Este repositorio contiene el desarrollo de una plataforma de Bug Bounty para prácticas en la Universidad de Palermo.
 
 ### Materia
 Arquitectura Web
