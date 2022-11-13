@@ -18,3 +18,11 @@ Los usuarios en la plataforma son los siguientes:
 * **Usuario Empresa:** Usuario que puede solamente ver y modificar información sobre su propia empresa, crear programas de Bounties y visualizar vulnerabilidades de los programas pertenecientes únicamente de su empresa. Este usuario debe ser creado desde el Backend. Estos usuarios serán los encargados de decidir si la vulnerabilidad es válida o no.
     
 * **Usuario Admin:** Este usuario puede administrar completamente la plataforma.
+
+### Instalación
+```
+git clone https://github.com/franc205/up-bug-bounty-project.git
+cd up-bug-bounty-project
+npm install
+npm run
+```
