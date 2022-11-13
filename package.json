@@ -1,4 +1,20 @@
 {
+  "name": "bug-bounty",
+  "description": "Este repositorio contiene el desarrollo de una plataforma de Bug Bounty para prácticas en la Universidad de Palermo.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franc205/up-bug-bounty-project.git"
+  },
+  "author": "franc205",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franc205/up-bug-bounty-project/issues"
+  },
+  "homepage": "https://github.com/franc205/up-bug-bounty-project#readme",
+  
   "dependencies": {
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.1",
@@ -10,5 +26,5 @@
   "scripts": {
     "dev": "nodemon app",
     "start": "node app"
-  }
+  },
 }
